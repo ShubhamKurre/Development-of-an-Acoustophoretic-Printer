@@ -106,6 +106,16 @@ This eliminates issues like **nozzle clogging**, **shear damage to biofluids**, 
 
 ---
 
+
+
+## 📄 Project Report
+
+You can access the detailed project report here:  
+[📘 **Development of an Acoustophoretic Printer – Full Report**](Development_of_an_Acoustophoretic_Printer_Report.pdf)
+
+---
+
+
 ## 👨‍💻 Author
 **Shubham Kurre**  
 Mechanical Engineering | Acoustics | Fluid Mechanics | Mechatronics  
